@@ -1,2 +1,2 @@
 # awsupload
-Test File Upload on AWS bucket without AWS cli
+Test File Upload on S3 bucket without AWS cli
